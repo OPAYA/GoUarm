@@ -19,7 +19,7 @@ This is a vision code for DeepTree preoject
   <img src="img/color.png" width="200">
 
 - #### step3: Edge Detection
-<img src="img/edge.png" width="200">
+![img/original.png](https://github.com/OPAYA/GoUarm/tree/master/img/edge.PNG)
 
 - #### step4: Corner Detection
 <img src="img/cornel.png" width="200">
