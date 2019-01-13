@@ -25,5 +25,5 @@ This is a vision code for DeepTree preoject
 <img src="https://github.com/OPAYA/GoUarm/tree/master/img/cornel.png" width="200">
 
 - #### step5: Geometric
-<img src="img/geometric.png" width="200">
+<img src="./img/geometric.png" width="200">
 
