@@ -12,11 +12,10 @@ This is a vision code for DeepTree preoject
 ### Step
 ---
 - #### step1
-<img src="img/original.png" width="200"> 
-<br>
+![img/original.png](https://github.com/OPAYA/GoUarm/tree/master/img/original.png) 
 
 -  #### step2: Yellow Detection
-  <img src="img/color.png" width="200">
+![img/color.png](https://github.com/OPAYA/GoUarm/tree/master/img/color.png)
 
 - #### step3: Edge Detection
 ![img/original.png](https://github.com/OPAYA/GoUarm/tree/master/img/edge.PNG)
