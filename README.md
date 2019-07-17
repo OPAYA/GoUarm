@@ -1,28 +1,26 @@
 # GoUarm
----
 This is a vision code for DeepTree preoject
 
 
-### Requirement
----
-- Python 3.6
-- OpenCV-python
-- Numpy
+## Requirement
+* [Python 3.6+]
+* [OpenCV-python]
+* [Numpy]
 
-### Step
----
+## Step
 - #### step1
-![img/original.png](https://github.com/OPAYA/GoUarm/tree/master/img/original.png) 
+<p align="center"><img width="100%" src="img/original.png">
 
--  #### step2: Yellow Detection
-![img/color.png](https://github.com/OPAYA/GoUarm/tree/master/img/color.png)
+- #### step2: Yellow Detection
+<p align="center"><img width="100%" src="img/color.png">
 
 - #### step3: Edge Detection
-![img/original.png](https://github.com/OPAYA/GoUarm/tree/master/img/edge.PNG)
+<p align="center"><img width="100%" src="img/edge.png">
 
 - #### step4: Corner Detection
-<img src="https://github.com/OPAYA/GoUarm/tree/master/img/cornel.png" width="200">
+<p align="center"><img width="100%" src="img/cornel.png">
 
 - #### step5: Geometric
-<img src="./img/geometric.png" width="200">
+<p align="center"><img width="100%" src="img/geometric.png">
+
 
