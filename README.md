@@ -1,6 +1,8 @@
 # GoUarm
-This is a vision code for DeepTree preoject
+This is a vision code for DeepTree project
 
+## What is a DeepTree Project?
+DeepTree Project make a OmokRobot using Reinforcement Learning.
 
 ## Requirement
 * [Python 3.6+]
